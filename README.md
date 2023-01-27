@@ -26,6 +26,10 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 Link to GIF walkthrough below 
 
+
+https://user-images.githubusercontent.com/71801722/215004714-482242f2-740b-40e4-b95c-7745ef4d7650.mp4
+
+
 (https://user-images.githubusercontent.com/71801722/214983208-2c540514-6dba-4b62-afd6-1fb5321646ed.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -42,6 +46,10 @@ Describe any challenges encountered while building the app.
 Challenge 1: Parsing the JSON
 
 Initially struggled with parsing the json for each game and placing the game data into elements on the page. But with hardwork and attentive problem solving skills, I was able to complete the task
+
+Challenge 2: Creating the Description String
+
+I was a bit confused on how to best incorporate template literals/the ternary operator into the description for the funds total, I was able to figure it out by breaking down the specified steps and utilizing documentation to better understand template literals and ternary operator 
 
 ## License
 
